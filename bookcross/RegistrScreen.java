@@ -1,4 +1,4 @@
-package com.bookcross;
+package com.bookcross;//не использую, регистрация в registrationActivity
 
 import android.app.ProgressDialog;
 import android.content.Intent;
