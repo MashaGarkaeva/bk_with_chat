@@ -1,4 +1,4 @@
-package com.bookcross;
+package com.bookcross;//не использую эту авторизацию, авторизация происходит в LoginActivity
 
 import android.content.Context;
 import android.content.Intent;
